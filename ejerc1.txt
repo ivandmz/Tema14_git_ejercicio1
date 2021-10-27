@@ -6,3 +6,7 @@ esto es para la rama Dev luego de subirlo...
 esto lo hice desde github en la nube!
 
 private String alumno;
+
+//constr
+public ejercicio() {
+}
